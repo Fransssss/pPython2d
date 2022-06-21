@@ -1,4 +1,4 @@
-# Python2d
+# Python2D
 Basic 2d with Python
 - list1 = []
 - list2 = []
