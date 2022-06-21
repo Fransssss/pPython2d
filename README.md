@@ -1,5 +1,5 @@
 # Python2D
-Basic 2d with Python
+Basic 2D with Python
 - list1 = []
 - list2 = []
 - list3 = []
