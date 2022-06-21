@@ -40,7 +40,7 @@ while choice != "e" and choice != "E":
     else:
         print("\n[Invalid input]\n")
 
-    print("Food Lists")
+    print("== Food Lists ==")
     print("1. List of fruit")
     print("2. List of vegetable")
     print("3. List of meat")
